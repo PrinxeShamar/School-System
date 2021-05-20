@@ -1,0 +1,7 @@
+create depts depts.txt
+create courses courses.txt
+create students students.txt
+add courses 
+print depts
+print students
+add CSCI 1000 1100

@@ -1,0 +1,8 @@
+CSCI,Computer Science 1
+MATH,Calculus 1
+MATH,Calculus 2
+CSCI,Data Structures
+PHYS,Physics 1
+PHYS,Physics 2
+COGS,Minds and Machines
+COGS,Intro to Cognitive Science

@@ -1,0 +1,4 @@
+CSCI,Computer Science
+MATH,Mathematics
+PHYS,Physics
+COGS,Cognitive Science
